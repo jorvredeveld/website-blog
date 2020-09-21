@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jor Vredeveld
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master's student Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tilburg University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+#email: "jorvredeveld@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
