@@ -13,3 +13,7 @@
   url = "/"
   weight = 20
 
+[[main]]
+  name = "CV"
+  url = "cv/cv"
+  weight = 20
